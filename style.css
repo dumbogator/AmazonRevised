@@ -1,0 +1,38 @@
+* {
+  margin: 0;
+  padding: 0;
+  border-style: border-box;
+}
+
+.navbar1 {
+  height: 60px;
+  width: 100vw;
+  background-color: #131a22;
+  color: white;
+}
+
+.navbar2 {
+  height: 39px;
+  width: 100vw;
+  background-color: #232f3e;
+}
+.nav-logo {
+  height: 50px;
+  width: 120px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.logo {
+  height: 40px;
+  margin: 12px 0 0 0;
+}
+
+.border{
+    border: 2px solid transparent;
+    border-radius: 10px;
+    
+}
+.border:hover{
+    border: 2px solid white
+}
